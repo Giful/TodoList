@@ -4,7 +4,7 @@ GACHENOT Antoine
 
 ## Installation des dépendances
 
-Se rendre dans le dossier dun TD
+Se rendre dans un TD ouvrir un terminal et executer la commande suivante :
 
 > npm i
 
